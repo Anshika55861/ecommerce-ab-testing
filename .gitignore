@@ -1,0 +1,16 @@
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+models/*
+!models/.gitkeep
+.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+mlruns/
+*.pkl
+*.h5
+*.keras
